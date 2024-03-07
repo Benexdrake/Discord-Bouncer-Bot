@@ -1,0 +1,10 @@
+TOKEN=Bot_Token
+inviteGuild=Guild_ID
+adminGuild=Guild_ID
+secretGuild=Guild_ID
+inviteChannel=Channel_ID
+secretGuildChannel=Channel_ID
+log=log_ID
+q1='Wie hast du uns gefunden?'
+q2='Warum möchtest du unserer Community beitreten'
+q3='Pc oder Konsole Master Race?'

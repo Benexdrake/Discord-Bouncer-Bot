@@ -1,0 +1,5 @@
+.env
+__pycache__
+events/__pycache__
+slash_commands/__pycache__
+tasks/__pycache__
